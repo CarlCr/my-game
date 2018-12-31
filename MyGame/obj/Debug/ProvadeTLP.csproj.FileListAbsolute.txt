@@ -1,0 +1,29 @@
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.exe.config
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.exe
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.pdb
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.csprojResolveAssemblyReference.cache
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Form1.resources
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Properties.Resources.resources
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.csproj.GenerateResource.Cache
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.exe
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.pdb
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.inicio.resources
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.splech.resources
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Escolher.resources
+C:\Users\Joana Helena\Documents\Visual Studio 2015\Projects\Aprendendo com JR\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Form2.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.exe.config
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.exe
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.pdb
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.exe
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.pdb
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.csprojResolveAssemblyReference.cache
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Escolher.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Form1.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Form2.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.inicio.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.Properties.Resources.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.splech.resources
+C:\Users\Carl Cr\Projectos\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.csproj.GenerateResource.Cache
+C:\Users\Carl Cr\Desktop\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\ProvadeTLP\ProvadeTLP\bin\Debug\ProvadeTLP.exe.config
+C:\Users\Carl Cr\Desktop\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.exe
+C:\Users\Carl Cr\Desktop\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\ProvadeTLP\ProvadeTLP\obj\Debug\ProvadeTLP.pdb
